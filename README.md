@@ -1,12 +1,14 @@
 
 # Student List Project
 
-Welcome to the Student List Project repository! 🚀 This beginner-friendly web development exercise showcases the use of HTML, CSS, and JavaScript to create a simple webpage.
+Welcome to the Student List Project repository! 🚀 This beginner-friendly web development exercise showcases the use of HTML, CSS, and JavaScript (especially Objects) to create a simple Student List App where you can add students, their classroom and their marks.
 
 
-## Features
+## Lessons Learned
 
-- Task Management: Easily add and view students' data.
+- Add simple animation with CSS.
+- Add your students objects into an array.
+- Show your students list.
 
 
 ## Showcase
